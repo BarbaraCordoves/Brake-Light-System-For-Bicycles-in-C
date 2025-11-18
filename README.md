@@ -1,1 +1,1 @@
-As a course final project, my group and I designed and implemented an embedded system using a microcontroller to enhance bicycle safety. We programmed the system in C using MPLAB to detect braking and activate LED indicators. The LEDs showcase each light system, such as, motion sensor, headlight, break sensor, and caution lights.
+
